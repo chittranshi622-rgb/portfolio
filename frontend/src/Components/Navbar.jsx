@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="nav-container">
         <a href="#hero" className="nav-logo" onClick={closeMenu}>
-          Chhitranshi<span className="logo-dot">.</span>dev
+          Chittranshi<span className="logo-dot">.</span>dev
         </a>
 
         <div className={`nav-links ${isOpen ? 'active' : ''}`}>
