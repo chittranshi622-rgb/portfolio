@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Certificates from './components/Certificates';
-import Education from './components/Education';
-import About from './components/About';
-import Contact from './components/Contact';
+import Navbar from './Components/Navbar';
+import Hero from './Components/Hero';
+import Certificates from './Components/Certificates';
+import Education from './Components/Education';
+import About from './Components/About';
+import Contact from './Components/Contact';
 
 function App() {
   return (
